@@ -1,6 +1,8 @@
 # Nifty-50-Q1-FY2025-Fundamentals
 The Nifty 50 is a stock market index representing India's 50 largest and most liquid companies listed on the National Stock Exchange (NSE). It serves as a benchmark for the Indian equity market and is widely regarded as an indicator of the health and performance of the broader economy. 
 
+Key Insights 
+
 Market Cap vs. Earnings:
 Reliance Industries has the largest market cap (₹19,92,127 Cr) but a relatively modest P/E ratio of 28.98. This suggests that the market views it as reasonably valued given its earnings, despite its large size.
 Despite having a smaller market cap (₹9,95,118 Cr), Bharti Airtel has the highest P/E ratio of 83.32, indicating a higher market valuation relative to earnings, potentially due to growth expectations.
